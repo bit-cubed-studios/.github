@@ -9,4 +9,5 @@ Where creativity intersects with practicality in the world of Minecraft! Our tea
 </p>
 
 <h1 align="center"> Projects ⭐ </h1>
+
 - [commander](https://github.com/bit-cubed-studios/commander)
