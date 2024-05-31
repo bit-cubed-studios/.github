@@ -1,3 +1,1 @@
-# Bit³ Development Workshop
-
-We are Bit³ Development Workshop, where creativity intersects with practicality in the world of Minecraft! Our team is committed to crafting custom plugins specifically designed for server owners, elevating their gaming experiences and nurturing thriving communities. But our expertise doesn't stop there – we also offer comprehensive libraries tailored for plugin developers, simplifying the creation process and empowering them to realize their ideas effortlessly. At Byte Workshop, we're not just developing plugins; we're forging the path for the future of Minecraft gaming, one code iteration after another.
+This is our README.md!!!
