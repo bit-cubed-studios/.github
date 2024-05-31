@@ -1,7 +1,7 @@
 <h1 align="center"> We are Bit³ Studios! 👋 </h1>
 
 <p align="center">
-    <img width="700" src="https://github.com/bit-cubed-studios/.github/assets/79918051/779b583c-fa97-496c-8ada-0d038caffe39" alt="Bit Cubed Studios Banner">
+    <img width="1000" src="https://github.com/bit-cubed-studios/.github/assets/79918051/779b583c-fa97-496c-8ada-0d038caffe39" alt="Bit Cubed Studios Banner">
 </p>
 
 <p align="center">
@@ -10,8 +10,8 @@ Where creativity intersects with practicality in the world of Minecraft! Our tea
 
 <h1 align="center"> Projects ⭐ </h1>
 
-## NeoLibraries - A collection of libraries for Minecraft Plugin Development!
+### NeoLibraries - A collection of libraries for Minecraft Plugin Development!
 - [***commander*** (Command API)](https://github.com/bit-cubed-studios/commander)
-- ***auditor*** (Event Listener API) ***Coming Soon!***
-- ***elements*** (Particle API) ***Coming Soon!***
-- ***matter*** (Item API) ***Coming Soon!***
+- ***auditor*** (Event Listener API) ```Coming Soon!```
+- ***elements*** (Particle API) ```Coming Soon!```
+- ***matter*** (Item API) ```Coming Soon!```
