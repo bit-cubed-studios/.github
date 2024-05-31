@@ -10,4 +10,8 @@ Where creativity intersects with practicality in the world of Minecraft! Our tea
 
 <h1 align="center"> Projects ⭐ </h1>
 
-- [commander](https://github.com/bit-cubed-studios/commander)
+## NeoLibraries - A collection of libraries for Minecraft Plugin Development!
+- [***commander*** (Command API)](https://github.com/bit-cubed-studios/commander)
+- ***auditor*** (Event Listener API) ***Coming Soon!***
+- ***elements*** (Particle API) ***Coming Soon!***
+- ***matter*** (Item API) ***Coming Soon!***
