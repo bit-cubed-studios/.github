@@ -1,4 +1,4 @@
-<h1 align="center"> We are Bit³ Studios! 👋 </h1>
+<h1 align="center">We are Bit³ Studios! 👋</h1>
 
 <p align="center">
     <img width="1000" src="https://github.com/bit-cubed-studios/.github/assets/79918051/779b583c-fa97-496c-8ada-0d038caffe39" alt="Bit Cubed Studios Banner">
